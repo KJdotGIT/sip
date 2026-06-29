@@ -1,5 +1,5 @@
 a = 667 * 86
-t = high
+t = 0
 while a > 0:
     a -= 1
     t = t + 1
